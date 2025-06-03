@@ -15,7 +15,8 @@ Estou começando a criar meus primeiros projetos. Fique ligado!
 
 ## Como me encontrar
 
-[LinkedIn](www.linkedin.com/in/gabrielfreiresreis)  
+[LinkedIn](www.linkedin.com/in/gabrielfreiresreis)
+
 📧 gabriel.freires.reis@gmail.com
 
 ---
