@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel 👋
 
-<!--
-**GabrielFreiresR/GabrielFreiresR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação (SI)  
+💻 Explorando diversas áreas da tecnologia e programação  
+🚀 Focado em aprender e desenvolver projetos práticos que me desafiem  
+📚 Sempre buscando crescimento e novos conhecimentos
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em breve 🚧
+
+Estou começando a criar meus primeiros projetos. Fique ligado!
+
+---
+
+## Como me encontrar
+
+[LinkedIn](https://www.linkedin.com/in/gabrielfreiresreis)  
+📧 gabriel.freires.reis@gmail.com
+
+---
+
+> 💡 Este perfil é meu portfólio de estudos e projetos. A jornada está só começando, mas a dedicação é total!
+
